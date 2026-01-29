@@ -10,7 +10,6 @@ import android.view.View.OnClickListener;
 import android.view.Window;
 import android.widget.Button;
 import android.app.AlertDialog;
-import java.io;
 
 public class ActivityMain extends Activity {
 	
